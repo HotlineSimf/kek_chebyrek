@@ -22,4 +22,4 @@ def send_text(message):
 def sticker_id(message):
     print(message)
 
- bot.polling()#фукция, зставляющая бота работать в цикле
+ bot.polling()
