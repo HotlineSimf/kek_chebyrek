@@ -4,7 +4,7 @@ import threading
 import time
 
 
-# 1080870764:AAGfKfQK8HpaKtGvovOlJtPekhIRtzL8L3s
+
 BOT_TOKEN = ''
 USERS_TOKEN = ['']
 bot = telebot.TeleBot(BOT_TOKEN)
